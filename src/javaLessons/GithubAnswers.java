@@ -1,4 +1,4 @@
-package hackerRangTasks.introduction;
+package javaLessons;
 
 import java.util.Scanner;
 
