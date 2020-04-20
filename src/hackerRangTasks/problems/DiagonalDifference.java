@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by acer i5 on 15.04.2020.
+ * Created by Islombek Karimov on 15.04.2020.
  */
 public class DiagonalDifference {
     public static void main(String[] args) {

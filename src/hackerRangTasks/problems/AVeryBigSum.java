@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.stream.LongStream;
 
 /**
- * Created by acer i5 on 12.04.2020.
+ * Created by Islombek Karimov on 12.04.2020.
  */
 public class AVeryBigSum {
 

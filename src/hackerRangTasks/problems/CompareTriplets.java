@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /**
- * Created by acer i5 on 12.04.2020.
+ * Created by Islombek Karimov on 12.04.2020.
  */
 public class CompareTriplets {
 

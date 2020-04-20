@@ -3,7 +3,7 @@ package hackerRangTasks.problems;
 import java.util.Arrays;
 
 /**
- * Created by acer i5 on 13.04.2020.
+ * Created by Islombek Karimov on 13.04.2020.
  */
 public class MiniMaxSum {
     public static void main(String[] args) {

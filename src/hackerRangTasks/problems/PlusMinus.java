@@ -1,7 +1,7 @@
 package hackerRangTasks.problems;
 
 /**
- * Created by acer i5 on 13.04.2020.
+ * Created by Islombek Karimov on 13.04.2020.
  */
 public class PlusMinus {
     public static void main(String[] args) {
