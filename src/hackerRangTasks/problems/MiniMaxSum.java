@@ -10,7 +10,6 @@ public class MiniMaxSum {
         int[] arr = new int[]{256741038, 623958417, 467905213, 714532089, 938071625};
         miniMaxSum(arr);
     }
-
     static void miniMaxSum(int[] arr) {
         long sum = 0;
         Arrays.sort(arr);
